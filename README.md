@@ -23,6 +23,9 @@ To implement Erosion and Dilation using Python and OpenCV.
 
 
 ## Program:
+name- RICHARDSON A
+reg no. - 212222233005
+dept- AI&DS
 
 ``` Python
 # Import the necessary packages
